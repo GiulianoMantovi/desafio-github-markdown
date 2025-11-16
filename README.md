@@ -2,4 +2,8 @@
 Primeiro desafio do da Formação Github Certification da DIO
 ___
 
-Esse desafio tem como objetivo utilizar o github para armazenar o código assim como adicionar colaboradores e realizar alterações, commits e abrir issues e pull requests.
+Esse desafio tem como objetivo utilizar o github para:
+- Armazenar o código;
+- Adicionar colaboradores;
+- Realizar alterações e commits;
+- Abrir issues e pull requests.
